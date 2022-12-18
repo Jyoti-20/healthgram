@@ -1,0 +1,32 @@
+.ab
+{
+    font-size: 20px;
+    font-family: arial;
+    font-weight: bold;
+}
+
+h2
+{
+    font-weight: bold;
+    text-shadow: 2px 2px yellow;
+    color:red;
+}
+.cd
+{
+    font-weight: bold;
+    font-style: italic;
+    color: red;
+    text-align: center;
+    text-shadow: 2px 2px white;
+    font-family: Algerian;
+    background-color: blue;
+}
+
+.xy
+{
+    font-size: 30px;
+    font-weight: bold;
+    color:blue;
+    text-shadow: 4px 4px white;
+    font-family: arial black;
+}
